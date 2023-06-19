@@ -1,0 +1,409 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    
+.navbar-toggler {
+    background-color: white;
+}
+
+.banner_heading h1 {
+    font-size: 50px;
+}
+.banner_heading h3 {
+    font-size: 35px;
+}
+.navbar-light .navbar-toggler {
+    border: none;
+}
+button:focus {
+    outline: 0px dotted;
+    outline: 0px auto-webkit-focus-ring-color;
+}
+#banner {
+    padding-top: 120px;
+    padding-bottom: 100px;
+}
+.about_headng h2::before {
+    bottom: -25px;
+}
+#about {
+    padding: 45px 0 40px 0;
+}
+.about_headng h2 {
+    font-size: 25px;
+}
+.about_headng p {
+    font-size: 14px;
+    padding: 0 12px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.about_item {
+    margin-bottom: 10px;
+}
+#count {
+    padding: 45px 0;
+}
+#service {
+    padding: 50px 0;
+}
+.service_heading h2 {
+    font-size: 25px;
+}
+.service_info {
+    text-align: center;
+}
+.service_text h5 {
+    margin-top: 5px;
+}
+#testimonial {
+    padding: 0px 0;
+    text-align: center;
+}
+.team_heading p {
+    font-size: 14px;
+}
+
+.testi_text p {
+    font-size: 14px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.testi_text h5:before {
+    left: -10px;
+}
+.testi_text h5 {
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+#team {
+    padding: 50px 0;
+}
+.team_heading h2 {
+    font-size: 25px;
+}
+.team_heading p {
+    padding: 0 12px;
+    margin-bottom: 30px;
+}
+.gellery_heading h2 {
+    font-size: 20px;
+}
+.gellery_heading p {
+    padding: 0 12px;
+    margin-bottom: 30px;
+    font-size: 14px;
+}
+#gellery {
+    margin-bottom: 50px;
+}
+#footer {
+    padding: 45px 0 0 0;
+}
+.footer_left_item button {
+    padding: 10px 15px;
+    bottom: 0px;
+}
+.footer_left_item input {
+    height: 40px;
+    width: 64%;
+}
+.blog_item h3 {
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+.blog_size {
+    margin-top: 15px;
+}
+.blog_text {
+    text-align: center;
+    margin-top: 5px;
+}
+.insta_heading h3 {
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+.copy_text p {
+    font-size: 12px;
+}
+.view-more {
+    margin: 20px 0 0 100px;
+}
+section#footer {
+    text-align: center;
+}
+.footer_left_item p {
+    font-size: 12px;
+}
+
+
+ }
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+.navbar-toggler {
+    background-color: white;
+}
+.banner_heading h3 {
+        font-size: 50px;
+}
+.banner_heading h1 {
+    font-size: 85px;
+}
+.banner_heading.text-center {
+    padding: 0px 0px;
+}
+.navbar-light .navbar-toggler {
+    border: none;
+}
+button:focus {
+    outline: 0px dotted;
+    outline: 0px auto-webkit-focus-ring-color;
+}
+#banner {
+    padding-top: 150px;
+    padding-bottom: 110px;
+}
+.about_headng h2::before {
+    bottom: -25px;
+}
+#about {
+    padding: 65px 0 65px 0;
+}
+.img-fluid {
+    width: 100%;
+}
+.about_headng h2 {
+    font-size: 25px;
+}
+.about_headng p {
+    padding: 0 12px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.about_item {
+    margin-bottom: 10px;
+}
+#count {
+    padding: 50px 0;
+}
+#service {
+    padding: 60px 0;
+}
+.service_heading h2 {
+    font-size: 30px;
+}
+.service_info {
+    text-align: center;
+}
+.service_text h5 {
+    margin-top: 8px;
+}
+#testimonial {
+    padding: 30px 0;
+    text-align: center;
+}
+.testi_text p {
+    font-size: 16px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.testi_text h5:before {
+    left: 90px;
+}
+.testi_text h5 {
+    font-size: 25px;
+    margin-left: 40px;
+}
+#team {
+    padding: 60px 0;
+}
+.team_heading h2 {
+    font-size: 30px;
+}
+.team_heading p {
+    padding: 0 12px;
+    margin-bottom: 30px;
+}
+.gellery_heading h2 {
+    font-size: 25px;
+}
+.gellery_heading p {
+    padding: 0 12px;
+    margin-bottom: 30px;
+}
+#gellery {
+    margin-bottom: 50px;
+}
+#footer {
+    padding: 45px 0 0 0;
+}
+
+.footer_left_item button {
+    padding: 15px 15px;
+    bottom: 0px;
+}
+.footer_left_item input {
+    height: 50px;
+    width: 80%;
+}
+
+.blog_item h3 {
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+.blog_size {
+    margin-top: 20px;
+}
+.blog_text {
+    text-align: center;
+    margin-top: 5px;
+}
+.insta_heading h3 {
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+.copy_text p {
+    font-size: 14px;
+}
+.view-more {
+    margin: 20px 0 0 220px;
+}
+
+
+ }
+
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    
+.navbar-toggler {
+    background-color: white;
+}
+button:focus {
+    outline: 0px dotted;
+    outline: 0px auto-webkit-focus-ring-color;
+    }
+.banner_heading h3 {
+    font-size: 60px;
+}
+.banner_heading h1 {
+font-size: 100px;
+}
+.banner_heading.text-center {
+padding: 0px 0px;
+}
+.navbar-light .navbar-toggler {
+border: none;
+}
+#banner {
+padding-top: 180px;
+padding-bottom: 130px;
+}
+.about_headng h2::before {
+    bottom: -25px;
+}
+#about {
+    padding: 80px 0 80px 0;
+}
+.img-fluid {
+    width: 100%;
+}
+.about_headng h2 {
+    font-size: 30px;
+}
+.about_headng p {
+    padding: 0 12px;
+    margin-top: 55px;
+    margin-bottom: 35px;
+}
+.about_item {
+    margin-bottom: 10px;
+}
+#count {
+    padding: 60px 0;
+}
+#service {
+    padding: 70px 0;
+}
+.service_heading h2 {
+    font-size: 40px;
+}
+.service_text h5 {
+    margin-top: 10px;
+}
+#testimonial {
+    padding: 40px 0;
+}
+.testi_text p {
+    font-size: 20px;
+    margin: 0 20px;
+}
+.testi_text h5:before {
+    left: 120px;
+}
+.testi_text h5 {
+    font-size: 30px;
+    margin-left: 20px;
+}
+#team {
+    padding: 60px 0;
+}
+.team_heading h2 {
+    font-size: 40px;
+}
+.team_heading p {
+    padding: 0 12px;
+    margin-bottom: 30px;
+}
+.gellery_heading h2 {
+    font-size: 30px;
+}
+.gellery_heading p {
+    padding: 0 12px;
+    margin-bottom: 30px;
+}
+#gellery {
+    margin-bottom: 50px;
+}
+#footer {
+    padding: 50px 0 0 0;
+}
+
+.footer_left_item button {
+    padding: 15px 15px;
+    bottom: 21px;
+}
+.footer_left_item input {
+    height: 50px;
+    width: 63%;
+}
+
+.blog_item h3 {
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+.blog_size {
+    margin-top: 20px;
+}
+.blog_text {
+    margin-top: 5px;
+}
+.insta_heading h3 {
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+.copy_text p {
+    font-size: 16px;
+}
+.view-more {
+    margin: 20px 0 0 30px;
+}
+
+
+
+}
